@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+안녕하세요. 백엔드 개발자 송효진입니다 😎
+
+## 📚 Stack
+- Java
+- Spring
+- RDBMS (Oracle, MariaDB, MSSQL)
+
+
+
 <!--
 **hyojin107/hyojin107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![hyojin's github stats](https://github-readme-stats.vercel.app/api?username=hyojin107&show_icons=true)
+-->
