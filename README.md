@@ -10,6 +10,10 @@ Hi there 👋 백엔드 개발자 송효진입니다 😎
 ![hyojin's github stats](https://github-readme-stats.vercel.app/api?username=hyojin107&show_icons=true)
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+
+
+
 <!--
 **hyojin107/hyojin107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
