@@ -6,7 +6,7 @@ Hi there 👋 백엔드 개발자 송효진입니다 😎
 - Spring
 - RDBMS (Oracle, MariaDB, MSSQL)
 
-<br/>
+
 ![hyojin's github stats](https://github-readme-stats.vercel.app/api?username=hyojin107&show_icons=true)
 
 
