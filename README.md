@@ -1,11 +1,12 @@
  
 Hi there 👋 백엔드 개발자 송효진입니다 😎
 
+<!--
 ## 📚 Stack
 - Java
 - Spring
 - RDBMS (Oracle, MariaDB, MSSQL)
-
+-->
 
 ![hyojin's github stats](https://github-readme-stats.vercel.app/api?username=hyojin107&show_icons=true)
 
